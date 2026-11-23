@@ -1,18 +1,18 @@
 # homebrew-tap
 
-Homebrew formulae for [kwonmoto](https://github.com/kwonmoto)'s tools.
+Homebrew formulae for [dev-harrykwon](https://github.com/dev-harrykwon)'s tools.
 
 ## Install
 
 ```bash
-brew install kwonmoto/tap/halias
+brew install dev-harrykwon/tap/halias
 ```
 
 ## Formulae
 
 | Formula | Description |
 | --- | --- |
-| [halias](https://github.com/kwonmoto/halias) | Shell alias manager that learns how you work |
+| [halias](https://github.com/dev-harrykwon/halias) | Shell alias manager that learns how you work |
 
 ## Updating a formula for a new release
 
